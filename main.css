@@ -8,6 +8,9 @@ header{
    border-width:thick;
    border-style:groove;
    border-color:purple;
+   margin-left:2cm;
+   margin-right:2cm;
+   margin-top:2cm;
 }
 footer{
    color:orange;
@@ -18,13 +21,16 @@ footer{
    border-width:thick;
    border-style:groove;
    border-color:purple;
+   margin-left:2cm;
+   margin-right:2cm;
+   margin-top:0.5cm;
 }
 body{
    background-color:#a35623;
    border-bottom:double;
    border-bottom-width:thick;
    border-bottom-style:double;
-   border-bottom-color:yellow; 
+   border-bottom-color:yellow;
 }
 
 /**Create a new file called "main.css"
