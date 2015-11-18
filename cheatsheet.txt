@@ -19,3 +19,19 @@ cd - same as terminal
 put <filename> - upload a file
 get <filename> - upload a file
 
+sftp tabo2659@cmis-teacher
+cd public_html(imp)
+put filename for uploading file to sftp
+rm filename for removing
+mkdir filename for adding file
+rmdir filename for removing file
+exit
+ 
+localhost:8000 for viewing index.html(default)
+localhost:8000/filename for viewing file instead of index.html
+cmis-hsteacher/~ for viewing in public_html
+ 
+mkdir filename to add subfolder
+rmdir filename to remove subfolder
+cd .. get back to repository
+cd  get back to home
