@@ -1,9 +1,25 @@
-
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+body{
+background-image:url("http://bgfons.com/upload/light_texture2284.jpg");
+}
 nav{
 width:400px;
 float:left;
 border:1px solid;
 }
 main{
-	margin-left:401px;
+border:1px solid;
+margin-left:401px;
+font-family:'Source Sans Pro',sans-serif;
 }
+p{
+border:1px dotted;
+}
+h2{
+font-family: 'Anton', sans-serif;
+}
+header{
+font:200px
+}
+
