@@ -1,10 +1,9 @@
+
 nav{
-float:left;
 width:400px;
-height:3600px;
+float:left;
 border:1px solid;
-margin:left;
-clear:left;
 }
-
-
+main{
+	margin-left:401px;
+}
