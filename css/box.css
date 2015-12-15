@@ -1,4 +1,19 @@
-header{
-       color:blue;
-       border: solid 20px;
+body{
+background-image:url("https://wallpaperscraft.com/image/dark_spot_background_texture_50611_1920x1080.jpg");
+}
+h1{
+color:red;
+border:2px solid blue;
+}
+h2{
+color:orange;
+border:2px solid;
+}
+p{
+color:green;
+border:2px solid red;
+}
+ul{
+color:#829347;
+border:2px solid;
 }
