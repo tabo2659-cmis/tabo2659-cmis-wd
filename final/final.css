@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 @import url(https://fonts.googleapis.com/css?family=Anton);
 body{
-background-image:url("http://bgfons.com/upload/light_texture2284.jpg");
+background-image:url("http://www.magic4walls.com/wp-content/uploads/2014/03/texture-green-paper-pattern-scratch-background-photo-hd-wallpaper.jpg");
 }
 nav{
 width:400px;
@@ -14,12 +14,17 @@ margin-left:401px;
 font-family:'Source Sans Pro',sans-serif;
 }
 p{
-border:1px dotted;
+border:2px dotted;
+border-color:red;
+padding:0cm 10cm 0cm 1cm;
 }
-h2{
-font-family: 'Anton', sans-serif;
+h1{
+font-family: 'Anton',sans-serif;
+border:1px solid;
+padding:0cm 2cm 0cm 2cm;
 }
-header{
-font:200px
+img{
+border:2px solid;
+border-color:white;
 }
 
