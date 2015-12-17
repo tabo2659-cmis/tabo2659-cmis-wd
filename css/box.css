@@ -1,27 +1,29 @@
 body{
-background-image:url("https://wallpaperscraft.com/image/dark_spot_background_texture_50611_1920x1080.jpg");
+background-image:url("http://www.onebigsession.com/wp-content/uploads/2014/11/textures-wallpapers-507-original-background-wall-stains-texture-background-images.jpg");
 }
 h1{
 color:red;
 border:2px solid blue;
+margin:60px;
+padding:0cm 2cm 0cm 8cm;
 }
 h2{
 color:orange;
 border:2px solid;
 }
 p{
-color:green;
+color:blue;
 border:2px solid red;
 }
 ul{
-color:#829347;
-border:2px solid;
+color:blue;
+border:2px solid green;
 }
 ol{
-color:#829347;
+color:black;
+border:2px dotted red;
 }
 table{
-color:blue;
 border:1px red;
 }
 footer{
