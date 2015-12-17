@@ -6,6 +6,8 @@ color:red;
 border:2px solid blue;
 margin:60px;
 padding:0cm 2cm 0cm 8cm;
+height:10px;
+width:10px;
 }
 h2{
 color:orange;
@@ -29,3 +31,16 @@ border:1px red;
 footer{
 color:purple;
 }
+div p{
+background-color:green;
+}
+div~p{
+color:green;
+}
+div li{
+color:#a23;
+}
+ul>li{
+background-color:blue;
+}
+
